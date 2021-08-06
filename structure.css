@@ -1,0 +1,46 @@
+
+/* Begin global variables */
+
+:root {
+
+}
+
+/* End global variables */
+
+/* Begin General styles */
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+
+/* End General styles */
+
+/* Begin Typography */
+
+
+/* End Typography */
+
+/* Begin Colors */
+
+
+
+/* End Colors */
+
+/* Begin Structure */
+
+
+
+/* End Structure */
+
+/* Begin desktop media query min-width 1000px */
+
+@media (min-width: 1000px) {
+
+}
+
+/* End desktop media query min-width 1000px */
